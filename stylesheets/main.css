@@ -3,6 +3,8 @@ body {
     font-family: Roboto;
 /*     padding-left: 17em;
     padding-right: 17em; */
+    height: 100%;
+    overflow: hidden;
 }
 
 #content {
